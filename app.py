@@ -80,7 +80,7 @@ def check_login(username, password):
 # ------------------------------
 # UI
 # ------------------------------
-st.title("📚 School FAQ Chatbot (Supabase)")
+st.title("📚 STEM Obour FAQ Chatbot")
 
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
