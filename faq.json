@@ -1,0 +1,18 @@
+[
+  {
+    "questions": ["hello", "hi", "hey", "good morning", "good evening"],
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "questions": ["what is the school name?", "school name?", "name of school?"],
+    "answer": "The school name is STEM High School Obour."
+  },
+  {
+    "questions": ["where is the school?", "school location?", "where is STEM Obour located?"],
+    "answer": "STEM High School Obour is located in Obour City, Egypt."
+  },
+  {
+    "questions": ["how can I apply?", "admission process?", "how do I enroll?"],
+    "answer": "Visit our official website or contact the admission office for application details."
+  }
+]
